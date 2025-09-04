@@ -9,7 +9,6 @@ This project predicts whether a movie will be a **Hit** or **Flop** and estimate
 - Regression to predict **Revenue**
 - Interactive Colab dashboard with movie suggestions
 - Probability bar chart visualization
-- Model evaluation metrics: Accuracy, Precision, Recall, F1-score
 
 ## How to Use
 
